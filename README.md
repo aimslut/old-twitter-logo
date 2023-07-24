@@ -3,7 +3,7 @@ Swap the "X" logo for the old twitter bird
 
 ---
 ### prerequisites 
-[https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo](tampermonkey) / [https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag](violentmonkey)
+[tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) / [violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 
 ### installation instructions
 - copy the entire contents of `tampermonkey_scipt.js`
