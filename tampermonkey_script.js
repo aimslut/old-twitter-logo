@@ -21,7 +21,7 @@ twitterLoaderLogo.firstChild.innerHTML = oldTwitterSVG;
 const disconnect = VM.observe(document.body, () => {
 
   // Find the target node
-  const twitterLogoLink = document.querySelector('a[aria-label="Twitter"]');
+  const twitterLogoLink = document.querySelector('a[aria-label="X"]');
   const twitterLoaderLogo = document.querySelector('div[aria-label="Loading…"]');
 
   if (twitterLogoLink) {
