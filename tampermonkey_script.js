@@ -2,6 +2,7 @@
 // @name        Old twitter logo - twitter.com
 // @namespace   Tampermonkey Script
 // @match       https://twitter.com/*
+// @match       https://x.com/*
 // @grant       none
 // @version     1.0
 // @author      aimslut
